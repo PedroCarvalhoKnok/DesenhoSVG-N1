@@ -1,0 +1,5 @@
+A->F,f,B,-,+ ->(alfabeto)
+F->Ff+-fFF ->(regra)
+α->90°(angulo)
+______
+...
